@@ -1,4 +1,4 @@
-**R code**
+**Reproducibility materials**
 
 Description: For the paper "Regularization Approach for Network Modeling of German Energy Market"
 
