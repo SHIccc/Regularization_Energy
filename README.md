@@ -1,4 +1,4 @@
-## <img src="pics/Project.png" width="100" /> **Reproducibility materials**
+## <img src="Project.png" width="100" /> **Reproducibility materials**
 
 Description: For the paper "Regularization Approach for Network Modeling of German Energy Market"
 
