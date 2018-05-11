@@ -1,4 +1,4 @@
-**R code**
+## <img src="Project.png" width="220" /> **Reproducibility materials**
 
 Description: For the paper "Regularization Approach for Network Modeling of German Energy Market"
 
