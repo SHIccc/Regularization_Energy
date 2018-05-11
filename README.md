@@ -14,4 +14,6 @@ __Description:__
 - network.R: produce the full sample connestedness estimates based the selected model.
 - network_tabplot.R: produce Table 4.5-4.7 and Figure 4.6 - 4.8.
 - qgraph_plot.R: network visulization, produce Figure 4.5.
-- **.RData: The estimation results produced by estimation.R.
+- *.RData: To save time, the estimation results produced by estimation.R are provided.
+- lassoplot.R: produce Figure 4.3.
+- scadplot.R: prodece Figure 4.4.
