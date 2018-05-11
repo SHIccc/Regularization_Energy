@@ -16,4 +16,5 @@ __Description:__
 - qgraph_plot.R: network visulization, produce Figure 4.5.
 - *.RData: To save time, the estimation results produced by estimation.R are provided.
 - lassoplot.R: produce Figure 4.3.
-- scadplot.R: prodece Figure 4.4.
+- scadplot.R: produce Figure 4.4.
+- summary_*.R: produce the results reported in Table 4.3 and 4.4.
